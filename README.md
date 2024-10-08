@@ -22,6 +22,9 @@ _✨ 基于*Memprocfs*和*Volatility*的可视化内存取证工具 ✨_
 区别于VolatilityPro：https://github.com/Tokeii0/VolatilityPro
 
 有着更快的取证速度以及更便捷的功能
+
+视频展示：https://www.bilibili.com/video/BV1z912YpECB
+
 ### 界面展示
 ![afaaaddd5831755531faf4cf8b5bf0e3](https://github.com/user-attachments/assets/3908f151-fe34-4395-b948-912897a8a041)
 ![image](https://github.com/user-attachments/assets/86f9a7d4-1155-4c89-948e-8fe658753fbd)
