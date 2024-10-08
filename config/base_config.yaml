@@ -1,0 +1,23 @@
+tools:
+  memprocfs:
+    path: "../Tools/MemProcFS/MemProcFS.exe"
+  volatility2:
+    path: "../Tools/volatility2/vol.exe"
+  volatility2_python:
+    path: "../Tools/volatility2_python/vol.py"
+  volatility3:
+    path: "../Tools/volatility3/vol.py"
+  volatility3_symbols:
+    path: "../Tools/volatility3/symbols"
+  gimp:
+    path: "../Tools/gimp/bin/gimp-console-2.10.exe"
+  volatility2_plugin:
+    path: "../Tools/volatility2_plugin"
+
+base_tools:
+  python310:
+    path: "../Tools/python3/python.exe"
+  python27:
+    path: "../Tools/python27/python27.exe" 
+  strings:
+    path: "../Tools/other/strings.exe"
